@@ -3,7 +3,7 @@ command line tools for generating QR codes in the terminal.
 
 ## Install
 
-`go install github.com/thbourlove/qr`
+`go get github.com/thbourlove/qr`
 
 ## Usage
 
